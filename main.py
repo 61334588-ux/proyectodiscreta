@@ -1,2 +1,3 @@
 print("Ya no hy futuro en el Perú")
-print("Las elecciones no son democraticas")
+print("El futuro es hoy")
+print("1, 2, 3, 4, 5")
